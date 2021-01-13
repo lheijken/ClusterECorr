@@ -107,7 +107,7 @@ MyMainFrame::MyMainFrame(const TGWindow *p,UInt_t w,UInt_t h)
   AddFrame(hframe, new TGLayoutHints(kLHintsCenterX,2,2,2,2));
 
   // Set a name to the main frame
-  SetWindowName("Simple Example");
+  SetWindowName("Cluster E corrections");
 
   // Map all subwindows of main frame
   MapSubwindows();
